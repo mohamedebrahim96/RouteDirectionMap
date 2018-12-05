@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RouteDirectionMap</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="start">Start</string>
+    <string name="word_GPS_not_enabled">gps not enabled</string>
+    <string name="word_GPS_enable">gps enabled</string>
+    <string name="word_GPS">GPS</string>
 </resources>
